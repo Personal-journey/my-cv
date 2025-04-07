@@ -65,25 +65,12 @@ career-profile:
   title: Career Profile
   summary: |
     
-    Abdurrahman Uthman — Resume Summary
-You can download this free resume/CV template here.
+    Abdurrahman Uthman — Resume Summary 
 A passionate builder, educator, and open-source advocate with a strong background in web development, startup growth, and community-driven education reform. From founding impactful projects to mentoring aspiring tech talents, I combine technical skills with a vision for change.
 
 Having played key roles in initiatives like Techies Evenings, school transformation projects, and developer-focused events, I’m driven by a mission to make tech accessible, relevant, and globally competitive. I specialize in frontend technologies, automation tools, and creating systems that empower learning and collaboration.
 education:
   title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
   - degree: Abdurrahman Uthman is in the process of completing his admission to study Software Engineering at Iconic Open University.
    # university: Bristol University
    # time: 2007 - 2011
