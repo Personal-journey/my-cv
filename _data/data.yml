@@ -1,10 +1,10 @@
 sidebar:
   position: right
-  about: True
-  education: True
+  about: true
+  education: true
 
   # Profile information
-  name: Uthman Abdurrahman 
+  name: Uthman Abdurrahman
   tagline: Full Stack Developer
   avatar: Pic.jpg
 
@@ -14,41 +14,33 @@ sidebar:
   timezone: Africa/Lagos
   citizenship: Nigerian
   website: https://codeknight1.com/
-  linkedin: [codeknight](https://www.linkedin.com/in/uthman-abdurrahman-970210221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-  xing: 
+  linkedin: https://www.linkedin.com/in/uthman-abdurrahman-970210221
   github: codeknight1
-  gitlab:
-  twitter: '@codeknight0'
+  twitter: "@codeknight0"
 
   languages:
     title: Languages
     info:
       - idiom: English
-        level: Professional 
+        level: Professional
 
       - idiom: Yoruba
-        level: Native 
+        level: Native
 
-      - idiom: Hausa 
-        level: Fluent 
+      - idiom: Hausa
+        level: Fluent
 
   interests:
     title: Interests
     info:
-      - item: Soccer 
-        link:
-
+      - item: Soccer
       - item: Tennis
-        link:
-
-      - item: Reading 
-        link:
+      - item: Reading
 
 career-profile:
   title: Career Profile
   summary: |
-    Abdurrahman Uthman — Resume Summary 
+    Abdurrahman Uthman — Resume Summary  
     A passionate builder, educator, and open-source advocate with a strong background in web development, startup growth, and community-driven education reform. From founding impactful projects to mentoring aspiring tech talents, I combine technical skills with a vision for change.
 
     Having played key roles in initiatives like Techies Evenings, school transformation projects, and developer-focused events, I’m driven by a mission to make tech accessible, relevant, and globally competitive. I specialize in frontend technologies, automation tools, and creating systems that empower learning and collaboration.
@@ -56,7 +48,7 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: Software Engineering (ongoing)
+    - degree: B.Sc. Software Engineering (Ongoing)
       university: Iconic Open University
       time: 2025 - Present
       details: |
@@ -67,34 +59,36 @@ experiences:
   info:
     - role: Front-end Developer
       time: 2023 - 2024
-      company: Sun Tech, Katsina Nigeria 
+      company: Sun Tech, Katsina, Nigeria
       details: |
-        During my time working on the SunTech website, I played a central role in developing a modern, functional website that aligned with the company's goals. My responsibilities included both front-end, where I focused on creating a seamless user experience and ensuring high performance across different devices.
-          - Built a fully responsive website optimized for performance and accessibility across all devices.
-          - Collaborated with cross-functional teams to align design and functionality with business objectives.
+        I played a central role in developing a modern, functional website that aligned with Sun Tech’s goals. My responsibilities focused on front-end development, emphasizing a seamless user experience and high performance across devices.
 
-    - role: Front-end Developer/Project Manager
+        - Built a fully responsive website optimized for performance and accessibility.
+        - Collaborated with cross-functional teams to align design and functionality with business objectives.
+
+    - role: Front-end Developer / Project Manager
       time: 2025 - Present
-      company: Codeum, Katsina 
+      company: Codeum, Katsina
       details: |
-        In building a comprehensive portfolio app to track work history, ratings, and reviews, I designed a platform that allowed users to display their professional experiences, including successes and challenges. This app streamlined the hiring process for job seekers and recruiters alike.
-          - Developed a clean, user-friendly interface to showcase work history, reviews, and ratings.
-          - Implemented features to allow users to track successful and unsuccessful projects for career growth.
+        I led the development of a comprehensive portfolio app that helps users track work history, ratings, and reviews. This platform supports professionals in showcasing their career journeys — both wins and lessons.
+
+        - Designed a clean, user-friendly interface to highlight projects, reviews, and ratings.
+        - Built features to log both successful and unsuccessful projects for personal growth and transparency.
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills & Proficiency
   toolset:
-    - name: Javascript 
+    - name: JavaScript
       level: 70%
 
-    - name: Reactjs & Nextjs 
+    - name: React.js & Next.js
       level: 70%
 
-    - name: HTML5 
+    - name: HTML5
       level: 95%
 
     - name: CSS & Tailwind CSS
       level: 85%
 
-    - name: Git & Github 
+    - name: Git & GitHub
       level: 90%
