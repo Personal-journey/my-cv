@@ -1,117 +1,99 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: True
+  education: True
 
   # Profile information
   name: Uthman Abdurrahman 
   tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.png
 
   # Sidebar links
   email: uthmanabdurrahman98@gmail.com
   phone: +2348060466236
-  timezone: Africa/Lago #Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Africa/Lagos
   citizenship: Nigerian
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://example.com/
   linkedin: alandoe
   xing: 
   github: codeknight1
- # telegram: # add your nickname without '@' sign
-  £gitlab:
- # bitbucket:
- # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  gitlab:
   twitter: '@codeknight0'
-  #stack-overflow: # Number/Username, e.g. 123456/alandoe
-#  codewars:
-  #goodreads: # Number-Username, e.g. 123456-alandoe
- # mastodon: # Please include your full Mastodon link here.
-  #hackerrank: # Please provide your HackerRank username.
-  #leetcode: # Please provide your LeetCode username.
- # pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Professional 
+      - idiom: English
+        level: Professional 
 
-    - idiom: Yoruba
-      level: Native 
+      - idiom: Yoruba
+        level: Native 
 
-    - idiom: Hausa 
-      level: Fluent 
+      - idiom: Hausa 
+        level: Fluent 
 
   interests:
     title: Interests
     info:
-    - item: Soccer 
-      link:
+      - item: Soccer 
+        link:
 
+      - item: Tennis
+        link:
 
-    - item: Tannis
-      link:
-
-
-    - item: Reading 
-      link:
-
+      - item: Reading 
+        link:
 
 career-profile:
   title: Career Profile
   summary: |
-    
     Abdurrahman Uthman — Resume Summary 
-A passionate builder, educator, and open-source advocate with a strong background in web development, startup growth, and community-driven education reform. From founding impactful projects to mentoring aspiring tech talents, I combine technical skills with a vision for change.
+    A passionate builder, educator, and open-source advocate with a strong background in web development, startup growth, and community-driven education reform. From founding impactful projects to mentoring aspiring tech talents, I combine technical skills with a vision for change.
 
-Having played key roles in initiatives like Techies Evenings, school transformation projects, and developer-focused events, I’m driven by a mission to make tech accessible, relevant, and globally competitive. I specialize in frontend technologies, automation tools, and creating systems that empower learning and collaboration.
+    Having played key roles in initiatives like Techies Evenings, school transformation projects, and developer-focused events, I’m driven by a mission to make tech accessible, relevant, and globally competitive. I specialize in frontend technologies, automation tools, and creating systems that empower learning and collaboration.
+
 education:
   title: Education
-  - degree: Abdurrahman Uthman is in the process of completing his admission to study Software Engineering at Iconic Open University.
-   # university: Bristol University
-   # time: 2007 - 2011
-  #  details: |
-    
+  info:
+    - degree: Software Engineering (ongoing)
+      university: Iconic Open University
+      time: 2025 - Present
+      details: |
+        In the process of completing admission to study Software Engineering at Iconic Open University.
 
 experiences:
   title: Experiences
   info:
-  - role: Front-end Developer
-    time: 2023 - 2024
-    company: Sun tech, Katsina Nigeria 
-    details: |
-    During my time working on the SunTech website, I played a central role in developing a modern, functional website that aligned with the company's goals. My responsibilities included both front-end, where I focused on creating a seamless user experience and ensuring high performance across different devices.
-        - Built a fully responsive website optimized for performance and accessibility across all devices.
-        - Collaborated with cross-functional teams to align design and functionality with business objectives.
-  - role: Front-end Developer/Project manager
-    time: 2025 - 
-    company: Codeum, Katsina 
-    details: |
-      In building a comprehensive portfolio app to track work history, ratings, and reviews, I designed a platform that allowed users to display their professional experiences, including successes and challenges. This app streamlined the hiring process for job seekers and recruiters alike.
-        - Developed a clean, user-friendly interface to showcase work history, reviews, and ratings.
-        -Implemented features to allow users to track successful and unsuccessful projects for career growth.
-  
+    - role: Front-end Developer
+      time: 2023 - 2024
+      company: Sun Tech, Katsina Nigeria 
+      details: |
+        During my time working on the SunTech website, I played a central role in developing a modern, functional website that aligned with the company's goals. My responsibilities included both front-end, where I focused on creating a seamless user experience and ensuring high performance across different devices.
+          - Built a fully responsive website optimized for performance and accessibility across all devices.
+          - Collaborated with cross-functional teams to align design and functionality with business objectives.
+
+    - role: Front-end Developer/Project Manager
+      time: 2025 - Present
+      company: Codeum, Katsina 
+      details: |
+        In building a comprehensive portfolio app to track work history, ratings, and reviews, I designed a platform that allowed users to display their professional experiences, including successes and challenges. This app streamlined the hiring process for job seekers and recruiters alike.
+          - Developed a clean, user-friendly interface to showcase work history, reviews, and ratings.
+          - Implemented features to allow users to track successful and unsuccessful projects for career growth.
+
 skills:
   title: Skills &amp; Proficiency
-
   toolset:
-  - name: Javascript 
-    level: 70%
+    - name: Javascript 
+      level: 70%
 
-  - name: Reactjs & Nextjs 
-    level: 70%
+    - name: Reactjs & Nextjs 
+      level: 70%
 
-  - name: HTML5 
-    level: 95%
+    - name: HTML5 
+      level: 95%
 
-  - name: CSS & Tailwind css
-    level: 85%
+    - name: CSS & Tailwind CSS
+      level: 85%
 
-  - name: Git & Github 
-    level: 90%
-
-
+    - name: Git & Github 
+      level: 90%
